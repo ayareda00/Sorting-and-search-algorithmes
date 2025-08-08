@@ -141,7 +141,7 @@ public class app extends JFrame{
         homePanel = new JPanel();
         homePanel.setLayout(new BorderLayout());
 
-        homePanel = new ImagePanel("C:\\Users\\ayare\\OneDrive\\Desktop\\sort2.gif");
+        homePanel = new ImagePanel("images/background.gif");
         homePanel.setLayout(new BorderLayout());
 
         JLabel welcomeInfo = new JLabel("WELCOME! ABA Sorting System  ^_^ ");
