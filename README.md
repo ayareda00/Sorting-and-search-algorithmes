@@ -34,21 +34,3 @@ This is a simple Java-based educational project that demonstrates how common **s
    git clone https://github.com/ayareda00/Sorting-and-search-algorithmes.git
    cd Sorting-and-search-algorithmes
    
-📁 Project Structure
-css
-Copy
-Edit
-
-├── src/
-│   ├── Main.java
-│   ├── Sorting/
-│   │   ├── BubbleSort.java
-│   │   ├── QuickSort.java
-│   │   └── ... etc
-│   ├── Searching/
-│   │   ├── BinarySearch.java
-│   │   └── LinearSearch.java
-│   └── Login/
-│       ├── User.java
-│       └── Auth.java
-└── README.md
